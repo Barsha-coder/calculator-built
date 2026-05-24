@@ -1,2 +1,2 @@
-# calculator-built
+# calculator-app
 A simple calculator built using python in PyCharm
